@@ -1,0 +1,5 @@
+com/course/bean/Course.class
+com/course/controller/CourseController.class
+com/course/CourceServiceLauncher.class
+com/course/bean/Fee.class
+com/course/service/CourseService.class
